@@ -1,2 +1,2 @@
 # bertoti
-Engenharia de softwere
+Engenharia de software
