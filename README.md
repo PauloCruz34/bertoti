@@ -1,6 +1,5 @@
-# Bertoti
 
-## Engenharia de Software
+# Engenharia de Software
 
 ![swe_at_google 2 cover](https://github.com/PauloCruz34/bertoti/assets/126684518/98f71790-6436-4155-9281-f7cecf1dfb0b)
 
