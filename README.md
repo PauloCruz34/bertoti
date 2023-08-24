@@ -14,8 +14,7 @@ Within Google, we sometimes say, “Software engineering is programming integrat
 
 O trecho enfatiza que a engenharia de software não se resume à programação, mas inclui a dimensão do tempo e o desenvolvimento contínuo do software. A analogia usada ilustra como essa diferença é fundamental. O autor ressalta a necessidade de reconhecer as diversas tarefas envolvidas, como desenvolvimento, modificações e manutenção. Em suma, a engenharia de software vai além da programação ao incorporar a evolução do software ao longo do tempo.
 
-### Trade-Offs
-_______________
+## Trade-Offs
 
 ![Trade](https://github.com/PauloCruz34/bertoti/assets/126684518/79075aa8-ab25-4373-b6dd-8057005206df)
 
@@ -30,14 +29,32 @@ Um "trade-off" na engenharia de computação se refere a uma situação em que �
 
 *Desempenho vs. Consumo de Recursos: Você pode precisar decidir entre otimizar o desempenho de um software ou sistema, o que pode exigir mais recursos de computação (como CPU e memória), versus otimizar o consumo de recursos em prol da eficiência energética ou da economia de custos.
 
-### As 10 Heurísticas de Usabilidade para Design de Interface de Usuário
-______________________________________________________________
-São princípios gerais que ajudam a avaliar e a melhorar a interação entre as pessoas e os sistemas. Elas foram criadas em 
+## As 10 Heurísticas de Usabilidade para Design de Interface de Usuário
+
+Criadas por Jakob Nielsen e Rolf Molich em 1990. São um conjunto de diretrizes amplamente reconhecidas para avaliar a usabilidade de interfaces de usuário em produtos digitais, como sites, aplicativos e software em geral. Elas fornecem critérios que podem ajudar a identificar problemas de usabilidade e melhorar a experiência do usuário.
+
+#### 1° Visibilidade do Status do Sistema
+Consiste em deixar o usuário informados sobre o que acontece no momento da iteração, com o sistema traxendo feedbacks instantâneos que servem para informar o status da iteração, além de conduzir pra os próximos passos.
+##### Exemplo
+Quando estamos assitindo a um vídeo no youtube nos é apresentado em uma seção lateral videos correspondentes aquele que estamos assitindo e os proximos a serem exibidos e  quais foram assistidos ou não.
+
+#### 2° Correspondência Entre o Sistema e o Mundo Real
+Com relação ao mundo real pode-se considerar sons, visual e o tom de escrita que o usuário utiliza para se comunicar. è comunmente implementada quando se utiliza setas, ícones e a cor vermelha para representar algo negaativo ou errado na maioria das vezes.
+um softwere que comunmente usa essa heurística é o phothoshop emm sua barra de ferramentas.
+
+#### 3° Liberdade e Controle do Usuário
+#### 4° Consistência e Padrões
+#### 5° Prevenção de Erros
+#### 6° Reconhecer ao Invéz de Lembrar
+#### 7° Flexibilidade e Eficiência
+#### 8° Estética e Design Minimalista
+#### 9° Auxiliar Usuários s Reconhecer, Diagnosticar e Recuperar erros
+#### 10° Ajuda e Documentação
 
 
 
-### Diagrama UML
-________________
+## Diagrama UML
+
 Um diagrama UML é uma representação gráfica de um sistema ou parte dele, usando uma linguagem padronizada chamada Linguagem Unificada de Modelagem. Existem vários tipos de diagramas UML, que podem mostrar diferentes aspectos do sistema, como sua estrutura, comportamento ou implantação. Um dos diagramas mais comuns é o diagrama de classes, que mostra as classes, atributos, operações e relações entre os objetos de um sistema. 
 
 #### Exemplo de um diagrama UML
