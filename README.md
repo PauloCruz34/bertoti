@@ -15,6 +15,8 @@ O trecho enfatiza que a engenharia de software não se resume à programação, 
 
 ### Trade-Offs
 
+![Trade](https://github.com/PauloCruz34/bertoti/assets/126684518/79075aa8-ab25-4373-b6dd-8057005206df)
+
 Um "trade-off" na engenharia de computação se refere a uma situação em que é preciso tomar uma decisão entre duas ou mais opções, sabendo que ao escolher uma delas, você estará abrindo mão de certos benefícios oferecidos pela outra opção. Em outras palavras, é uma troca entre vantagens e desvantagens.
 
 #### Exemplos de Trade-Offs
