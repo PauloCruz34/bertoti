@@ -28,6 +28,18 @@ Um "trade-off" na engenharia de computação se refere a uma situação em que �
 
 *Desempenho vs. Consumo de Recursos: Você pode precisar decidir entre otimizar o desempenho de um software ou sistema, o que pode exigir mais recursos de computação (como CPU e memória), versus otimizar o consumo de recursos em prol da eficiência energética ou da economia de custos.
 
+### As 10 Heurísticas de Nielsen ( Requisitos não Funcionais )
+
+
+
+
+### Diagrama UML
+
+Um diagrama UML é uma representação gráfica de um sistema ou parte dele, usando uma linguagem padronizada chamada Linguagem Unificada de Modelagem. Existem vários tipos de diagramas UML, que podem mostrar diferentes aspectos do sistema, como sua estrutura, comportamento ou implantação. Um dos diagramas mais comuns é o diagrama de classes, que mostra as classes, atributos, operações e relações entre os objetos de um sistema. 
+
+#### Exemplo de um diagrama UML
+
+
 
 
 
