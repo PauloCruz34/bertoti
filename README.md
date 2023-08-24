@@ -12,3 +12,20 @@ Within Google, we sometimes say, “Software engineering is programming integrat
 
 
 O trecho enfatiza que a engenharia de software não se resume à programação, mas inclui a dimensão do tempo e o desenvolvimento contínuo do software. A analogia usada ilustra como essa diferença é fundamental. O autor ressalta a necessidade de reconhecer as diversas tarefas envolvidas, como desenvolvimento, modificações e manutenção. Em suma, a engenharia de software vai além da programação ao incorporar a evolução do software ao longo do tempo.
+
+### Trade-Offs
+
+Um "trade-off" na engenharia de computação se refere a uma situação em que é preciso tomar uma decisão entre duas ou mais opções, sabendo que ao escolher uma delas, você estará abrindo mão de certos benefícios oferecidos pela outra opção. Em outras palavras, é uma troca entre vantagens e desvantagens.
+
+#### Exemplos de Trade-Offs
+
+*Custo vs. Desempenho: Escolher componentes de hardware mais avançados geralmente resulta em melhor desempenho, mas também pode aumentar significativamente o custo do sistema. Encontrar um ponto intermediário entre custo e desempenho é um trade-off importante em projetos de hardware.
+
+*Velocidade de Desenvolvimento vs. Qualidade: Em muitos projetos, existe uma pressão para entregar resultados rapidamente. No entanto, investir mais tempo no desenvolvimento pode resultar em um produto de melhor qualidade. O trade-off aqui é entre lançar rapidamente algo funcional e polir mais o produto antes de lançá-lo.
+
+*Desempenho vs. Consumo de Recursos: Você pode precisar decidir entre otimizar o desempenho de um software ou sistema, o que pode exigir mais recursos de computação (como CPU e memória), versus otimizar o consumo de recursos em prol da eficiência energética ou da economia de custos.
+
+
+
+
+
