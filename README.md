@@ -40,6 +40,8 @@ Consiste em deixar o usuário informados sobre o que acontece no momento da iter
 ##### Exemplo
 Quando estamos assitindo a um vídeo no youtube nos é apresentado em uma seção lateral videos correspondentes aquele que estamos assitindo e os proximos a serem exibidos e  quais foram assistidos ou não.
 
+![Captura de tela de 2023-08-24 21-05-19](https://user-images.githubusercontent.com/126684518/263132368-a6ce7e35-3c7c-46b6-80b5-9a5be34fcb78.png)
+
 #### 2° Correspondência Entre o Sistema e o Mundo Real
 Com relação ao mundo real pode-se considerar sons, visual e o tom de escrita que o usuário utiliza para se comunicar. è comunmente implementada quando se utiliza setas, ícones e a cor vermelha para representar algo negaativo ou errado na maioria das vezes.
 um softwere que comunmente usa essa heurística é o phothoshop emm sua barra de ferramentas.
