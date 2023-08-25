@@ -31,6 +31,8 @@ Um "trade-off" na engenharia de computação se refere a uma situação em que �
 
 ## As 10 Heurísticas de Usabilidade para Design de Interface de Usuário
 
+![as10heurísticas](https://user-images.githubusercontent.com/126684518/263132546-d2e2fecb-1ffd-4688-b04c-8315b686b50f.png)
+
 Criadas por Jakob Nielsen e Rolf Molich em 1990. São um conjunto de diretrizes amplamente reconhecidas para avaliar a usabilidade de interfaces de usuário em produtos digitais, como sites, aplicativos e software em geral. Elas fornecem critérios que podem ajudar a identificar problemas de usabilidade e melhorar a experiência do usuário.
 
 #### 1° Visibilidade do Status do Sistema
