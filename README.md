@@ -45,8 +45,13 @@ https://www.youtube.com/watch?v=jvVRoPwG2AU&t=106s
 #### 2° Correspondência Entre o Sistema e o Mundo Real
 Com relação ao mundo real pode-se considerar sons, visual e o tom de escrita que o usuário utiliza para se comunicar. è comunmente implementada quando se utiliza setas, ícones e a cor vermelha para representar algo negaativo ou errado na maioria das vezes.
 um softwere que comunmente usa essa heurística é o phothoshop emm sua barra de ferramentas.
+![photho](https://www.alura.com.br/artigos/assets/10-heuristicas/photoshop-barra-ferramentas.png)
 
 #### 3° Liberdade e Controle do Usuário
+Nessa heurística a principal preocupação é de passar para o usuário a liberdade de ele fazer o que quiser dentro do sistema com exceção das regras que interferem em outra funcionalidade ou são prejudiciais e regras que vão contra o negócio.
+por exemplo, quando criamos um post no twitter temos a lierdade de apaga-lo, oculta-lo. Só não consegue alterar o twitter em si.
+![Liberdade](https://www.alura.com.br/artigos/assets/10-heuristicas/tweet-retweet.png)
+
 #### 4° Consistência e Padrões
 #### 5° Prevenção de Erros
 #### 6° Reconhecer ao Invéz de Lembrar
