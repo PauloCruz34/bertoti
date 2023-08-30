@@ -68,8 +68,7 @@ Um diagrama UML é uma representação gráfica de um sistema ou parte dele, usa
 
 #### Exemplo de um diagrama UML
 
- ![UML](https://user-images.githubusercontent.com/126684518/263119320-54a03cd9-f377-4a85-aaf4-c074f391d5ca.png)
-
+![uml](https://github.com/PauloCruz34/bertoti/assets/126684518/cdc57a01-dcff-4706-af6d-70bde2acd82a)
 
 
 
