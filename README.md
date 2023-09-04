@@ -70,3 +70,6 @@ Um diagrama UML é uma representação gráfica de um sistema ou parte dele, usa
  ![UML](https://user-images.githubusercontent.com/126684518/263119320-54a03cd9-f377-4a85-aaf4-c074f391d5ca.png)
 
 ![uml](https://github.com/PauloCruz34/bertoti/assets/126684518/cdc57a01-dcff-4706-af6d-70bde2acd82a)
+
+## Diagrama de Classes UML
+![Diagrama de classes](https://github.com/PauloCruz34/bertoti/assets/126684518/2067839d-8fa7-4eb8-8a4c-3a57a40dab7a)
