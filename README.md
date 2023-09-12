@@ -52,6 +52,15 @@ por exemplo, quando criamos um post no twitter temos a lierdade de apaga-lo, ocu
 ![Liberdade](https://www.alura.com.br/artigos/assets/10-heuristicas/tweet-retweet.png)
 
 #### 4° Consistência e Padrões
+é  parte visual do sistema que coniste em padrões que possam se rapidamente reconhecidos pelo usário. Para que isso ocorra é necessário seguir alguns requisitos, como:
+* Padronização e cores;
+* Uso de grupo tipográfico específico;
+* Escolha de imagens e vetores a partir de um padrão;
+* Cracterísticas de botões e links.
+  
+Deve ser construído um guia de estilo que facilite a criação de novos ambientes mantendo o padrão já desenhado. Podemos observar essa heurística com facilidade nas redes sociais. Se você acessa o Instagram, percebe rapidamente em qual mídia está e nota o quanto ela é diferente do Facebook, por exemplo.
+
+![insta](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNgbd9pQzSyTAtCjwYLu_pZpVBu4QvINNhKw&usqp=CAU)
 #### 5° Prevenção de Erros
 #### 6° Reconhecer ao Invéz de Lembrar
 #### 7° Flexibilidade e Eficiência
