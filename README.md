@@ -62,6 +62,7 @@ Deve ser construído um guia de estilo que facilite a criação de novos ambient
 
 ![insta](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNgbd9pQzSyTAtCjwYLu_pZpVBu4QvINNhKw&usqp=CAU)
 #### 5° Prevenção de Erros
+
 #### 6° Reconhecer ao Invéz de Lembrar
 #### 7° Flexibilidade e Eficiência
 #### 8° Estética e Design Minimalista
