@@ -90,6 +90,7 @@ As mensagens de erros tem que ser claras e o mais proximas possíveis do conteud
 No formulário de cadastro do Spotify,por exemplo, caso você não preencha os dados necessários ele deixa  claro quais campos faltantes, com uma mensagem clara e objetiva.
 
 ![Alt text](image-1.png)
+
 #### 10° Ajuda e Documentação
 Ofereça acesso fácil a informações de suporte, como documentação, tutoriais ou assistência online, para que os usuários possam encontrar ajuda quando necessário.
 
