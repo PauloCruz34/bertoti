@@ -62,13 +62,35 @@ Deve ser construído um guia de estilo que facilite a criação de novos ambient
 
 ![insta](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNgbd9pQzSyTAtCjwYLu_pZpVBu4QvINNhKw&usqp=CAU)
 #### 5° Prevenção de Erros
+Procurar sempre especificar o tipo de erro cometido, aplicar auto complete ou sugerir complementos.
+ter uma interface que não permita o usuario errar.
+um exemplo sao os mecanisos de busca do google, no momento em que começamos a digitar ele ja oferece uma forma de completar a busca e mesmo com a ortografia errada ele busca e pergunta se está correta a resposta.
+![Alt text](https://www.alura.com.br/artigos/assets/10-heuristicas/google-busca.png)
 
 #### 6° Reconhecer ao Invéz de Lembrar
-#### 7° Flexibilidade e Eficiência
-#### 8° Estética e Design Minimalista
-#### 9° Auxiliar Usuários s Reconhecer, Diagnosticar e Recuperar erros
-#### 10° Ajuda e Documentação
+O usuário não tem obrigação de decorar qual foi o caminho que ele fez pra chegar até a página.
 
+Por exemplo, quando você entra em um produto do site da Locaweb é disponibilizado o caminho que você fez pra chegar até ele. Nós chamamos isso de breadcrumb.
+![img](https://www.alura.com.br/artigos/assets/10-heuristicas/email-marketing-layout-breadcrumb.png)
+#### 7° Flexibilidade e Eficiência
+
+A flexibilidade e eficiência são heurísticas que se complementam. A flexibilidade é a capacidade de o usuário escolher o caminho que ele quer seguir, enquanto a eficiência é a capacidade de o usuário fazer o que ele quer fazer de forma rápida.
+![img7](https://www.alura.com.br/artigos/assets/10-heuristicas/exemplo-trello.gif)
+#### 8° Estética e Design Minimalista
+
+A estética e o design minimalista são heurísticas que se complementam. A estética é a capacidade de o usuário achar o sistema bonito, enquanto o design minimalista é a capacidade de o usuário achar o sistema simples.
+
+![mini](https://www.alura.com.br/artigos/assets/10-heuristicas/exemplo-nubank-aplicativo.png)
+
+#### 9° Auxiliar Usuários s Reconhecer, Diagnosticar e Recuperar erros
+As mensagens de erros tem que ser claras e o mais proximas possíveis do conteudo ou ação que as causou.
+No formulário de cadastro do Spotify,por exemplo, caso você não preencha os dados necessários ele deixa  claro quais campos faltantes, com uma mensagem clara e objetiva.
+![Alt text](image-1.png)
+#### 10° Ajuda e Documentação
+Ofereça acesso fácil a informações de suporte, como documentação, tutoriais ou assistência online, para que os usuários possam encontrar ajuda quando necessário.
+
+Essas heurísticas são um guia valioso para avaliar a usabilidade de um sistema de software ou interface de usuário e são frequentemente usadas por designers e especialistas em usabilidade para melhorar a qualidade das interações do usuário com sistemas digitais.
+![Alt text](image-2.png)
 
 
 ## Diagrama UML
