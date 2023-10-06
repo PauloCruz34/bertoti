@@ -36,4 +36,8 @@ public class Patio {
         }
         return veiculosEncontrados;
     }
+
+    public Object getVeiculos() {
+        return null;
+    }
 }
