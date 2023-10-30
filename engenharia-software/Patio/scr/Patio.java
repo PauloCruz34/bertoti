@@ -37,7 +37,7 @@ public class Patio {
         return veiculosEncontrados;
     }
 
-    public Object getVeiculos() {
+    public static Object getVeiculos() {
         return null;
     }
 }

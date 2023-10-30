@@ -32,6 +32,11 @@ public class Veiculo {
         this.espec = espec;
     }
 
+	public Object size() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
 
     
 }
